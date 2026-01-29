@@ -314,7 +314,7 @@ User is created but cannot be logged into.
 > This section is intentionally included for documenting defects discovered during exploratory testing or automation runs.
 
 
-### Defect Template
+### Defect
 - **ID:** BUG-001
 - **Title:** Purchase can be done with incorrect details
 - **Severity / Priority:** Critical
@@ -331,7 +331,7 @@ User is created but cannot be logged into.
 - **Notes / Suspected Cause:** No input validation
 
 
-### Defect Template
+### Defect
 - **ID:** BUG-002
 - **Title:** No product in order completes purchase
 - **Severity / Priority:** High
@@ -348,7 +348,7 @@ User is created but cannot be logged into.
 - **Notes / Suspected Cause:** No verification that an item is required for purchase
 
 
-### Defect Template
+### Defect
 - **ID:** BUG-003
 - **Title:** Contact form with an incorrectly formatted email allows submission
 - **Severity / Priority:** Medium
@@ -365,7 +365,7 @@ User is created but cannot be logged into.
 - **Notes / Suspected Cause:** No verification that of valid email addresses
 
 
-### Defect Template
+### Defect
 - **ID:** BUG-004
 - **Title:** Contact form with an empty form allows submission
 - **Severity / Priority:** Low
